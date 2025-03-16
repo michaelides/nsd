@@ -29,7 +29,7 @@ url: "https://michaelides.github.io/" # the base hostname & protocol for your si
 github_username:  michaelides
 
 # Build settings
-remote_theme: jekyll-theme-chirpy
+remote_theme: just-the-docs/just-the-docs
 #theme:
 plugins:
   - jekyll-feed
