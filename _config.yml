@@ -29,7 +29,8 @@ url: "https://nsd.github.io/" # the base hostname & protocol for your site, e.g.
 github_username:  michaelides
 
 # Build settings
-theme: minima
+remote_theme: jekyll-theme-chirpy
+#theme:
 plugins:
   - jekyll-feed
 
