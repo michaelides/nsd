@@ -23,8 +23,8 @@ email: george.michaelides@gmail
 description: >- # this means to ignore newlines until "baseurl:"
   Non-standard deviations, is a collection of ideas, research methods, and statistical. It is aimed to be a resource for students, academics and practitioners seeking to enhance their Bayesian 
   analytical stills and leverage the power of R and Stan. 
-baseurl: "main" # the subpath of your site, e.g. /blog
-url: "https://nsd.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "nsd" # the subpath of your site, e.g. /blog
+url: "https://michaelides.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  michaelides
 
